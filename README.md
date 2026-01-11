@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Trip4X 👋
 
-<!--
-**Trip4x/Trip4X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I explain Data Engineering from first principles — in simple English.
 
-Here are some ideas to get you started:
+# What I share here
+- SQL Internals (joins, indexes, query plans)
+- Database Internals (transactions, locks, MVCC)
+- Data Modeling (star schema, SCD)
+- Spark Internals (partitions, shuffles, joins)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Current focus
+Building deep fundamentals + projects that show real engineering.
+
+📌 Follow my notes + projects here: (link your main repo after you create it)
+📌 LinkedIn: (add your LinkedIn link)
